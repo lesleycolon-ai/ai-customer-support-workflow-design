@@ -112,7 +112,9 @@ The proposed workflow includes:
 
 
 
-\[View the customer support workflow case study](docs/ai-customer-support-workflow-case-study.pdf)
+[View the customer support workflow case study](docs/ai-customer-support-workflow-case-study.pdf)
+
+[View the customer support workflow case study](docs/ai-customer-support-workflow-case-study.pptx)
 
 
 
